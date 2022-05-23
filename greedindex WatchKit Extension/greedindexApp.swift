@@ -13,9 +13,12 @@ struct greedindexApp: App {
         WindowGroup {
             NavigationView {
                 ContentView()
+                    .navigationTitle("Fear And Greed")
+                    .navigationBarTitleDisplayMode(.inline)
             }
         }
 
         WKNotificationScene(controller: NotificationController.self, category: "myCategory")
     }
+    
 }

@@ -621,7 +621,7 @@
 				DEVELOPMENT_TEAM = KC2U66R4BD;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = greedindex_WatchKit_Extension;
-				INFOPLIST_KEY_CFBundleDisplayName = "greedindex WatchKit App";
+				INFOPLIST_KEY_CFBundleDisplayName = "Fear And Greed Index";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ostapyrih.greedindex.watchkitapp;
@@ -646,7 +646,7 @@
 				DEVELOPMENT_TEAM = KC2U66R4BD;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = greedindex_WatchKit_Extension;
-				INFOPLIST_KEY_CFBundleDisplayName = "greedindex WatchKit App";
+				INFOPLIST_KEY_CFBundleDisplayName = "Fear And Greed Index";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ostapyrih.greedindex.watchkitapp;
